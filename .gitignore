@@ -1,0 +1,12 @@
+# UE build artifacts (in case plugin is built standalone)
+Binaries/
+Intermediate/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
